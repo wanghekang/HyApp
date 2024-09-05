@@ -1,0 +1,7 @@
+{
+  "name": "hypermedia2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
